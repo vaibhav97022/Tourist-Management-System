@@ -1,0 +1,6 @@
+{
+  "name": "Tourist Management System",
+  "description": "A native Android mobile application for tourist management featuring destinations, tour packages, booking management, and college viva ready architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
